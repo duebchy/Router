@@ -1,0 +1,5 @@
+build/
+*.env
+*.cfg
+*.json
+.DS_Store

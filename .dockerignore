@@ -1,0 +1,5 @@
+.git*
+*.env
+build/
+stations.json
+.DS_Store
